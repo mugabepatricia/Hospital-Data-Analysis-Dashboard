@@ -11,34 +11,34 @@ The goal was to explore hospital patient data and generate meaningful insights a
 ## Dataset used
 - <a href="https://github.com/mugabepatricia/Hospital-Data-Analysis-Dashboard/commit/8ea712edc841e8f60a6a581a270da0988b4b8b97">Dataset</a>
 ## Tools Used
-•	Microsoft Excel
+- Microsoft Excel
 o	Power Query (data cleaning & transformation)
 o	Pivot Tables
 o	Pivot Charts
 o	Slicers & Timelines
-•	Data visualization features in Excel
-•	Basic statistical analysis functions
+- Data visualization features in Excel
+- Basic statistical analysis functions
 ## Data Cleaning & Preparation
 The dataset was cleaned using Excel and Power Query by:
-•	Removing duplicates and blank rows
-•	Standardizing inconsistent formats (dates, categories, etc.)
-•	Handling missing values appropriately
-•	Structuring data into analysis-ready tables
-•	Ensuring data types were correctly assigned
+- Removing duplicates and blank rows
+- Standardizing inconsistent formats (dates, categories, etc.)
+- Handling missing values appropriately
+- Structuring data into analysis-ready tables
+- Ensuring data types were correctly assigned
 ## Key Analysis Areas
 The analysis focused on:
-•	Patient demographics (gender distribution)
-•	Common diagnoses and conditions
-•	Revenue per department
-•	Revenue per diagnosis
-•	Length of stay analysis
-•	Insurance coverage distribution
-•	Doctors’ performance
+- Patient demographics (gender distribution)
+- Common diagnoses and conditions
+- Revenue per department
+- Revenue per diagnosis
+- Length of stay analysis
+- Insurance coverage distribution
+- Doctors’ performance
 ## Dashboard Feature
 The final dashboard includes:
-•	Interactive filters (slicers) for dynamic analysis
-•	KPI cards summarizing key hospital metrics
-•	Trend charts for admissions over time
-•	Condition distribution visuals
-•	Patient demographic breakdowns
-•	Clean and user-friendly layout for stakeholders
+- Interactive filters (slicers) for dynamic analysis
+- KPI cards summarizing key hospital metrics
+- Trend charts for admissions over time
+-	Condition distribution visuals
+- Patient demographic breakdowns
+- Clean and user-friendly layout for stakeholders
